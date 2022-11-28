@@ -46,6 +46,7 @@
   "author": "jrichardlai",
   "license": "MIT",
   "dependencies": {
+    "deprecated-react-native-prop-types": "^2.3.0",
     "prop-types": "^15.7.x"
   },
   "jest": {
